@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Privacy Inspector</string>
+    <string name="app_description">Scan and Secure Your Apps</string>
 </resources>
